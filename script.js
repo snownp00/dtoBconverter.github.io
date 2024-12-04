@@ -11,7 +11,7 @@ const checkUserInput = () => {
     !numberInput.value ||
     isNaN(parseInt(numberInput.value)) ||
     parseInt(numberInput.value) < 0 ||
-    numberInput.value === &#128169
+   
   ) {
     alert("Please provide a valid pupu greater than that piddi sa pupu. OUI! Mast sey");
     return;
