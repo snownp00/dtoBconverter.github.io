@@ -12,7 +12,7 @@ const checkUserInput = () => {
     isNaN(parseInt(numberInput.value)) ||
     parseInt(numberInput.value) < 0
   ) {
-    alert("Please provide a decimal number greater than or equal to 0");
+    alert("Please provide a valid pupu greater than that piddi sa pupu. OUI! Mast sey &#128526 ;)");
     return;
   }
 
